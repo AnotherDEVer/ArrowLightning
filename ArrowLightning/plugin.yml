@@ -1,0 +1,4 @@
+name: ArrowLightning
+main: anotherDEVer.ArrowLightning.ArrowLightning
+version: .1
+commands:
